@@ -42,7 +42,7 @@ Once the prerequisites are installed, copy and paste the settings file correspon
 ## Setup Video Tutorial 🎥  
 
 Need help setting things up? Watch the complete step-by-step tutorial here:  
-[Watch the Tutorial](./assets/how-to-install.mp4)  
+[Watch the Tutorial](https://drive.google.com/file/d/1sqYLxd4qZxzV9-vAxBNmqenVXYwWdMcy/view?usp=sharing)  
 
 ---
 
