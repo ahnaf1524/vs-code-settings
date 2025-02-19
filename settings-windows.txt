@@ -72,7 +72,7 @@
         "pkl": "cd $dir && pkl eval -f yaml $fileName -o $fileNameWithoutExt.yaml",
         "gleam": "gleam run -m $fileNameWithoutExt",
         // My competitive programming widget
-        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt < input.txt > output.txt",
-        "cpp": "cd $dir && g++ -std=c++17 $fileName -o2 -Wall -o $fileNameWithoutExt && $dir$fileNameWithoutExt < input.txt > output.txt",
+        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt < in.txt > out.txt",
+        "cpp": "cd $dir && g++ -std=c++17 $fileName -o2 -Wall -o $fileNameWithoutExt && $dir$fileNameWithoutExt < in.txt > out.txt",
     },
 }
